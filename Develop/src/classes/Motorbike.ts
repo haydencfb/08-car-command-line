@@ -51,11 +51,11 @@ class Motorbike extends Vehicle {
   // TODO: Implement the wheelie method
     // TODO: The method should log the message "Motorbike [make] [model] is doing a wheelie!"
 
-  // TODO: Override the printDetails method from the Vehicle class
+  // DONE! TODO: Override the printDetails method from the Vehicle class
   override printDetails(): void {
-  // TODO: The method should call the printDetails method of the parent class
-  // TODO: The method should log the details of the Motorbike
-  // TODO: The details should include the VIN, make, model, year, weight, top speed, color, and wheels
+  // DONE! TODO: The method should call the printDetails method of the parent class
+  // DONE! TODO: The method should log the details of the Motorbike
+  // DONE! TODO: The details should include the VIN, make, model, year, weight, top speed, color, and wheels
 
   super.printDetails();
 
