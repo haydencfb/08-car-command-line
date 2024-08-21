@@ -7,7 +7,7 @@
   - My motivation behind the development of this project, other than it being an assignment, was to gain knowledge and insight of the command-line and its capabilities through the use of npm packages.
   - I built this project as a form of practice to learn the capabilities and overall functionality of the command-linne terminal and the power that it posesses in the eyes of the developer
   - This project, while may not solve a global problem in the world of software development, has allowed me to break through many sticking points in my knowledge of the command-line, how to use and/or communicate with it, and its overall purpose. 
-  - I learned a lot from this project. From the beginning of the project, I had difficulty in understanding the functionality and relationship between npm and the typescript file on my local machine, furthermore 
+  - I learned a lot from this project. From the beginning of the project, I had difficulty in understanding the functionality and relationship between npm and the typescript file on my local machine, furthermore how different typescript files communicate with one another through imports and exports. Throughout the duration of the project, I began to understand how these all function and work, as well as found more efficient ways of troubleshooting errors in my code. 
 
   ## Table of Contents
   - [Installation](#installation)
