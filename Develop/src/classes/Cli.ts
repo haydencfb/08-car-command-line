@@ -280,6 +280,7 @@ class Cli {
   // method to find a vehicle to tow
   // DONE! TODO: add a parameter to accept a truck object
   findVehicleToTow(truck: Truck): void {
+    console.log(`truck: ${truck}`);
     inquirer
       .prompt([
         {
@@ -303,7 +304,7 @@ class Cli {
         console.log(`You can not tow yourself!`)
         this.performActions();
        } else {
-        truck.tow(answers.vehiclesToTow);
+        truck.tow(answers.vehicleToTow);
         this.performActions();
        }
 
