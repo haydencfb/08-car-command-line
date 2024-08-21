@@ -18,6 +18,7 @@
  - [License](#license)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [Link](#link)
 
   ## Installation
   Users are able to install this package through this github repository in a packaged zip file. By installing this on your local machine, users can interact with the command-line prompts. However, the user must also install inquirer and fs for this project. In order to do so, upon opening the intergrated terminal of the project, the user can either request "npm i inquirer" & "npm i fs" (even though fs is usually already installed), or they can "npm i && run start" in order to install all packages and run simultaneously after installs are complete. 
@@ -39,3 +40,6 @@
 
   ## Questions
   If you have any questions, please feel free to reach out to me at haydenfitzbrintle@gmail.com or visit my GitHub profile at [https://github.com/haydencfb]
+
+  ## Link
+  If you would like to see a walkthrough demonstration of this project, visit this video at [https://drive.google.com/file/d/1TXCfNIPAi9T1DYyAQmny8dJPoRYvumrN/view]
